@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "commiting first file from blessings of lord Sri Ganesha"
+git branch myjava
+git remote add origin https://github.com/nkempegowda/myjava.git
+git checkout https://github.com/nkempegowda/myjava.git
+git push -u origin master
